@@ -1,0 +1,5 @@
+com\tanhua\dubbo\mapper\UserMapper.class
+com\tanhua\dubbo\DubboApplication.class
+com\tanhua\dubbo\api\db\UserInfoApiImpl.class
+com\tanhua\dubbo\mapper\UserInfoMapper.class
+com\tanhua\dubbo\api\db\UserApiImpl.class
